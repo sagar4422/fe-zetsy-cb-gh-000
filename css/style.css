@@ -36,3 +36,7 @@ h2
 {
 	border: 5px solid #dfdcdb;
 }
+.press:hover
+{
+	border: 5px solid #777;
+}
