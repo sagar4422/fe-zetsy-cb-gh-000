@@ -28,7 +28,7 @@ h2
 	color: #777;
 	font-size: 1.5em;
 }
-div#necklace
+#necklace
 {
-	border: 5px #777;
+	border: 5px solid #777 !important;
 }
